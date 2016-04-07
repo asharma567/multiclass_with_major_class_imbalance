@@ -29,7 +29,7 @@ __Using one multilabel model to handle the predictions of all the classes was a 
 
 __Assumptions made--__
 
-    The user agent string is where I extracted the labels from; hence, I only used the UA string to make labels and not for anything else.
+The user agent string is where I extracted the labels from; hence, I only used the UA string to make labels and not for anything else.
 
 __Bottlenecks I came across--__
 - Class imbalance
