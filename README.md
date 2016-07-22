@@ -25,7 +25,7 @@ Microsoft Internet Explorer       0.54      0.66      0.59       348
                 avg / total       0.48      0.50      0.47      2000
 ```
 
-__Using one multilabel model to handle the predictions of all the classes was a disaster in terms of performance which why mentioned in the next steps I would use a two-layer model approach.__
+_Using one multilabel model to handle the predictions of all the classes was a disaster in terms of performance which why mentioned in the next steps I would use a two-layer model approach._
 
 __Assumptions made--__
 
